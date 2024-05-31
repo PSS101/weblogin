@@ -1,0 +1,34 @@
+.bg{
+    background-image: linear-gradient(135deg,rgb(98, 250, 192),rgb(56, 146, 255));
+    background-size:cover;
+    height:100vh;
+    padding:10px
+    
+}
+.inp{
+    width:130px;
+    height:30px;
+}
+.butn{
+    width:80px
+}
+.b{
+   border-color:white;
+   border-radius: 10px;
+   
+   background-color:white;
+   height:80vh;
+   width:30vw;
+   margin:auto;
+   margin-top:10px;
+   text-align:center;
+   vertical-align: middle;
+padding:10px
+}
+.txt{
+    color:black;
+}
+.h{
+    margin-bottom:50px;
+    font-size:35
+}
